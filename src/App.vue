@@ -2,7 +2,7 @@
   <div>
     <channel-list></channel-list>
     <channel-list></channel-list>
-
+<h1>hello world</h1>
     <channel-card :channel="{name : 'My channel'}"></channel-card>
   </div>
 </template>
